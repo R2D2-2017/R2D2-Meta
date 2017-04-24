@@ -1,6 +1,6 @@
-#Lead vergadering #N
+# Lead vergadering #N
 
-#Algmene info
+# Algmene info
 Datum:
 Tijd:
 Eindtijd:
@@ -10,7 +10,7 @@ Aanwezigen:
 | Naam | Student Nummer |
 |--------|--------------|
 
-#Agenda
+# Agenda
 - Opening
 - Ingekomen stukken en mededelingen
 - Notulen vorige vergadering
@@ -21,15 +21,15 @@ Aanwezigen:
 - Rondvraag
 - Volgende vergadering inplannen
 
-#Notulen
-##Informatie
+# Notulen
+## Informatie
 
-##Besluiten
+## Besluiten
 
-##Actiepunten
+## Actiepunten
 |Wat|Wie|Wanneer|
 |---|---|-------|
 
-##Volgende vergadering
+## Volgende vergadering
 Datum:
 Tijd:
